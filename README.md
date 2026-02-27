@@ -1,4 +1,5 @@
-## Hi there 👋
+# 💫 About Me:
+I am a passionate Software Engineer with a strong focus on building efficient, scalable, and user-friendly applications. I enjoy solving complex problems, designing clean architectures, and writing code that is both maintainable and meaningful.<br>With experience across frontend, backend, and database development, I am always eager to learn new technologies and apply best practices to create high-quality software solutions. I thrive in collaborative environments, value clear communication, and continuously seek opportunities to improve both technically and personally.<br>My goal is to develop impactful products that enhance user experiences and help businesses grow through reliable and innovative technology.<br><br>⸻<br>
 
 <!--
 **andifi888/andifi888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
